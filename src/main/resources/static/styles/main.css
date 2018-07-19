@@ -1,0 +1,63 @@
+
+
+.content-divs{}
+
+.banner img{
+
+    width: 90%;
+}
+body{
+    text-align: center;
+    color: #068dbf;
+    font-family: "Baskerville Old Face";
+    font-size: 20px;
+    padding-bottom: 5%;
+}
+button{
+    width: 500px;
+    margin-top: 2%;
+    margin-bottom: 2%;
+}
+#certificate-background{
+    background: url('') no-repeat center ;
+    padding: 0px;
+    width: 210mm;
+    height: 297mm;
+    margin-left: 5%;
+}
+.textContent{
+    background-color: transparent;
+    margin-left: 19%;
+    padding-top: 15%;
+    padding-bottom: 15%;
+    padding-left: 15%;
+    padding-right: 10%;
+    width: 210mm;
+    height: 297mm;
+    border: 1px rgba(128, 128, 128, 0.47) dashed;
+}
+
+
+.memberArea{
+    width: 85%;
+    height: 200px;
+
+}
+.imgBackground{
+    padding: 0px;
+    width: 200px;
+}
+
+.editTextStyle{
+    text-align: center;
+    margin: 1%;
+
+
+}
+
+.certificateModal{
+
+
+
+}
+

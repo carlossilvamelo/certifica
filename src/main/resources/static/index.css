@@ -1,0 +1,56 @@
+/* this CSS is not part of the widget, it is here just as an example of the demo page styling.... Don't copy this one, roll your own. One
+ * of the key things about the widget is that it allows you to do your own styling!
+ */
+
+.bgContent{
+ background: url('') no-repeat center ;
+    background-color: white;
+    width: 210mm;
+    height: 297mm;
+    color: black;
+    margin-left: 15%;
+}
+.divContentCert{
+
+
+    border: rgba(128, 128, 128, 0.7) dashed;
+}
+#editor {
+
+	background-color: transparent;
+	border-collapse: separate;
+    padding-top: 25%;
+    padding-bottom: 15%;
+    padding-left: 20%;
+    padding-right: 20%;
+	box-sizing: content-box; 
+	-webkit-box-shadow: rgba(0, 0, 0, 0.0745098) 0px 1px 1px 0px inset; 
+	box-shadow: rgba(0, 0, 0, 0.0745098) 0px 1px 1px 0px inset;
+	border-top-right-radius: 3px; border-bottom-right-radius: 3px;
+	border-bottom-left-radius: 3px; border-top-left-radius: 3px;
+overflow: auto;
+	outline: none;
+}
+#voiceBtn {
+  width: 20px;
+  color: transparent;
+  background-color: transparent;
+  transform: scale(2.0, 2.0);
+  -webkit-transform: scale(2.0, 2.0);
+  -moz-transform: scale(2.0, 2.0);
+  border: transparent;
+  cursor: pointer;
+  box-shadow: none;
+  -webkit-box-shadow: none;
+}
+
+div[data-role="editor-toolbar"] {
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+.dropdown-menu a {
+  cursor: pointer;
+}
