@@ -16,3 +16,5 @@ Camada de serviço:
 - O envio do email com plano de fundo assim como mostrado na view não foi implementado, perdi um bom tempo tentando aprender como se fazia e acabei decidindo por avançar sem o requisito.
 - Apenas o teste unitário de tratamento das tags foi realizado.
 
+
+ps: Estou tendo problemas com minha chave da API.
